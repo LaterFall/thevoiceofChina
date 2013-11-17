@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Vote_N" value="name:name;datatype:string,name:c_num;datatype:string" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Vote_c" value="name:name;datatype:string,name:sex;datatype:string,name:student;datatype:string,name:year;datatype:int,name:month;datatype:int,name:day;datatype:int,name:song;datatype:string,name:current;datatype:string,name:c_num;datatype:int,name:teacher;datatype:string" />
+	<infoitem key="UD_Result_r" value="name:name;datatype:string,name:sex;datatype:string,name:student;datatype:string,name:year;datatype:int,name:month;datatype:int,name:day;datatype:int,name:song;datatype:string,name:current;datatype:string,name:c_num;datatype:int,name:teacher;datatype:string" />
+</info>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_teacher_des" value="name:name;datatype:string,name:sex;datatype:string,name:year;datatype:int,name:month;datatype:int,name:day;datatype:int" />
+	<infoitem key="UD_Teacher_des" value="name:name;datatype:string,name:sex;datatype:string,name:year;datatype:int,name:month;datatype:int,name:day;datatype:int" />
+	<infoitem key="UD_Teacher_desc" value="name:name;datatype:string,name:sex;datatype:string,name:year;datatype:int,name:month;datatype:int,name:day;datatype:int" />
+</info>

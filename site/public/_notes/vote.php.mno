@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="MM_css_include" value="../calendar.php" />
+	<infoitem key="MM_css_exclude" value="" />
+	<infoitem key="UD_Vote_N" value="name:name;datatype:string,name:c_num;datatype:int" />
+</info>
